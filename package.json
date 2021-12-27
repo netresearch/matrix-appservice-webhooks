@@ -40,7 +40,7 @@
     "moment": "^2.22.2",
     "node-emoji": "^1.11.0",
     "parse-data-uri": "^0.2.0",
-    "pubsub-js": "^1.7.0",
+    "pubsub-js": "^1.9.4",
     "random-string": "^0.2.0",
     "request": "^2.88.0",
     "sequelize": "^4.40.0",
