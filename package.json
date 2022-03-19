@@ -47,7 +47,7 @@
     "sqlite3": "^4.0.2",
     "striptags": "^3.2.0",
     "uuid": "^3.3.0",
-    "winston": "^2.4.4"
+    "winston": "^3.6.0"
   },
   "optionalDependencies": {}
 }
